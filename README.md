@@ -1,0 +1,2 @@
+A web scrapper to scrap data from htts://parivahan.gov.in/rcdlstatus/?pur_cd=101 , the program prompts the user for the Driving License Number and Date of Birth, after that it dislays the captcha(extracted from the website), then prompts the user to enter the Captcha.
+If the provided information is correct then it prints the information retrieved on the console in JSON format, else the error encountered is printed. 
